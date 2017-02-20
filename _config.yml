@@ -5,7 +5,7 @@ description:        "我为自由而生，笑随心动，寂而静止"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo2.jpg'
-background:         ''
+background:         'assets/img/timg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh-CN
 url:                https://Rynxiao.github.io
