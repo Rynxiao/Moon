@@ -4,8 +4,8 @@ bio:                '做一个放荡不羁的人'
 description:        "我为自由而生，笑随心动，寂而静止"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo2.jpg'
-background:         'assets/img/timg.jpg'
+logo:               'assets/img/logo.jpg'
+background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh-CN
 url:                https://Rynxiao.github.io
