@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="058c30d3-7a61-4984-b9e6-113e39722a85" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/notes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/novels.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/novels/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_layouts/lives.html" afterPath="$PROJECT_DIR$/_layouts/poems.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lives/index.md" afterPath="$PROJECT_DIR$/poems/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/notes.html" afterPath="$PROJECT_DIR$/_layouts/notes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/novels.html" afterPath="$PROJECT_DIR$/_layouts/novels.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/poems.html" afterPath="$PROJECT_DIR$/_layouts/poems.html" />
     </list>
     <ignored path="Rynxiao.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,14 +52,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nav.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nav.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4878049">
-              <caret line="99" column="67" selection-start-line="99" selection-start-column="67" selection-end-line="99" selection-end-column="67" />
+            <state vertical-scroll-proportion="-11.724138">
+              <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
               <folding>
                 <element signature="n#li#1;n#ul#0;n#nav#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notes.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/notes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.206897">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="novels.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/novels.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.448276">
+              <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="poems.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_layouts/poems.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.71736014">
+              <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -112,10 +137,11 @@
         <option value="$PROJECT_DIR$/_layouts/lives.html" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/lives/index.md" />
-        <option value="$PROJECT_DIR$/_layouts/poems.html" />
-        <option value="$PROJECT_DIR$/_layouts/notes.html" />
         <option value="$PROJECT_DIR$/poems/index.md" />
         <option value="$PROJECT_DIR$/notes/index.md" />
+        <option value="$PROJECT_DIR$/_layouts/notes.html" />
+        <option value="$PROJECT_DIR$/_layouts/novels.html" />
+        <option value="$PROJECT_DIR$/_layouts/poems.html" />
       </list>
     </option>
   </component>
@@ -638,14 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/project.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3127341">
-          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post-list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.041198503">
@@ -673,30 +691,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/poems.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25824964">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/notes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22955523">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/novels.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30703014">
-          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -728,13 +722,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32711622">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4878049">
-          <caret line="99" column="67" selection-start-line="99" selection-start-column="67" selection-end-line="99" selection-end-column="67" />
+        <state vertical-scroll-proportion="-11.724138">
+          <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
           <folding>
             <element signature="n#li#1;n#ul#0;n#nav#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/notes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.206897">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/novels.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.448276">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/poems.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71736014">
+          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
