@@ -92,6 +92,14 @@
 					<li><a href="{{ site.url }}/tags/">归档</a></li>
 				</ul>
 			</li>
+            <li>
+                <a href="#">远方和诗</a>s
+                <ul class="dl-submenu">
+                    <li><a href="{{ site.url }}/novels/">小说</a></li>
+                    <li><a href="{{ site.url }}/poems/">诗词</a></li>
+                    <li><a href="{{ site.url }}/notes/">随写</a></li>
+                </ul>
+            </li>
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
 		        {% assign domain = '' %}
