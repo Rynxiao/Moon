@@ -22,7 +22,7 @@ comments: true
 
 搭建博客有两种安装过程：**1.使用jekyll搭建；2.从jekyll模板中找到一个自己喜欢的，fork进自己的博客，然后修改_config.yml文件**，下面分别来讲讲两种方式的搭建。 
 
-### 1.使用jekyll服务搭建
+### 一、使用jekyll服务搭建
 
 #### 1.1 安装ruby以及ruby相关工具(DevKit)
 
@@ -120,13 +120,13 @@ jekyll的目录结构，最重要的就是`_includes`,`_layouts`,`_posts`
 
 > `_site` : 这个是Jekyll生成的最终的文档，不用去关心。最好把他放在你的.gitignore文件中忽略它。
 
-### 2.在github中展示你刚才搭建的博客
+#### 2.在github中展示你刚才搭建的博客
 
-#### 2.1 注册一个github账号
+##### 2.1 注册一个github账号
 
 比如我的github账号名称就是rynxiao，注册请点击这里[https://github.com/](https://github.com/)
 
-#### 2.2 配置ssh
+##### 2.2 配置ssh
 
 * 安装git客户端
 
@@ -165,7 +165,7 @@ git config --global user.name "rynxiao"
 git config --global user.email "yuzhongzi91@sina.com"
 {% endhighlight %}
 
-#### 2.3 上传自己的代码到github仓库
+##### 2.3 上传自己的代码到github仓库
 
 进入自己的github主页，然后新建一个仓库，名称叫做`你的用户名.github.io`，例如我的就叫做`Rynxiao.github.io`。
 
@@ -181,7 +181,7 @@ git push -u origin master                                               // 提�
 
 连上仓库之后会让你输入用户名和密码，然后就可以提交代码了。然后在浏览器中输入Rynxiao.github.io，就可以看到我们在本地中搭建的博客样子了
 
-### 2.复制别人现有的博客模板
+### 二、复制别人现有的博客模板
 
 - 进入[http://jekyllthemes.org/](http://jekyllthemes.org/)，挑选一个自己喜欢的模板
 - 进入主页，然后fork至自己的仓库下

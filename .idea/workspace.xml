@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="058c30d3-7a61-4984-b9e6-113e39722a85" name="Default" comment="" />
+    <list default="true" id="058c30d3-7a61-4984-b9e6-113e39722a85" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-21-使用github和jekyll搭建个人博客.md" afterPath="$PROJECT_DIR$/_posts/2017-02-21-使用github和jekyll搭建个人博客.md" />
+    </list>
     <ignored path="Rynxiao.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -39,8 +42,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.2504931">
-                <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
+              <first_editor vertical-scroll-proportion="0.5167653">
+                <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -83,8 +86,8 @@
         <option value="$PROJECT_DIR$/_includes/wangyi_comments.html" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2017-02-21-使用github和jekyll搭建个人博客.md" />
         <option value="$PROJECT_DIR$/_sass/elements.scss" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-21-使用github和jekyll搭建个人博客.md" />
       </list>
     </option>
   </component>
@@ -684,8 +687,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.2504931">
-            <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
+          <first_editor vertical-scroll-proportion="0.5167653">
+            <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
             <folding />
           </first_editor>
           <second_editor />
