@@ -1,6 +1,6 @@
 ---
 layout: novels
-title: 生活感悟
+title: 小说
 excerpt: "生活"
 comments: false
 ---

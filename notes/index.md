@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: 生活感悟
-excerpt: "生活"
+title: 随写
+excerpt: "随写"
 comments: false
 ---

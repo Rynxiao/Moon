@@ -1,6 +1,6 @@
 ---
 layout: poems
-title: 生活感悟
-excerpt: "生活"
+title: 诗
+excerpt: "诗"
 comments: false
 ---
