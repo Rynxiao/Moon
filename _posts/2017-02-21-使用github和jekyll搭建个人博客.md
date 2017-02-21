@@ -111,9 +111,13 @@ tasklist /svc /FI "PID eq 14325"
 jekyll的目录结构，最重要的就是`_includes`,`_layouts`,`_posts`
 
 > `_config.yml` : 配置文件，用来定义你想要的效果，设置之后就不用关心了。
+
 > `_includes` : 可以用来存放一些小的可复用的模块，方便通过{ % include file.ext %}（去掉前两个{中或者{与%中的空格，下同）灵活的调用。这条命令会调用_includes/file.ext文件。
+
 > `_layouts` : 这是模板文件存放的位置。模板需要通过YAML front matter来定义，后面会讲到，{ { content }}标记用来将数据插入到这些模板中来。
+
 > `_posts` : 你的动态内容，一般来说就是你的博客正文存放的文件夹。他的命名有严格的规定，必须是2012-02-22-artical-title.md这样的形式，MARKUP是你所使用标记语言的文件后缀名，根据_config.yml中设定的链接规则，可以根据你的文件名灵活调整，文章的日期和标记语言后缀与文章的标题的独立的。
+
 > `_site` : 这个是Jekyll生成的最终的文档，不用去关心。最好把他放在你的.gitignore文件中忽略它。
 
 ### 2.在github中展示你刚才搭建的博客
