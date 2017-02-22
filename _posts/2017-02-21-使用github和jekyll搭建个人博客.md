@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "使用github+jekyll搭建个人博客"
-date:   2017-02-31
+date:   2017-02-21
 excerpt: "搭建博客之后的第一篇文章——记录我使用github+jekyll搭建个人博客的经历。"
 codes: true
 tag:
