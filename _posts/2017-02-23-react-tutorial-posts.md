@@ -138,7 +138,7 @@ module.exports = {
 
 生成的编译文件为`[app.bundle.js]`，可以直接在`[html]`文件中引入
 
-![webpack](http://image18-c.poco.cn/mypoco/myphoto/20161227/18/184144497201612271821413924217185528_005.jpg?494x164_130)
+![webpack](http://p1.bpimg.com/572179/eaa8d70f7c908e61.png)
 
 ## array && object
 
@@ -171,7 +171,7 @@ React.createClass({
 });
 {% endhighlight %}
 
-![array](http://image18-c.poco.cn/mypoco/myphoto/20161227/18/184144497201612271821413924217185528_006.jpg?549x378_130)
+![array](http://p1.bpimg.com/572179/476645bc71f71389.png)
 
 对象使用`.`来使用，如：
 
@@ -251,7 +251,7 @@ export default React.createClass({
 {% endhighlight %}
 截图：
 
-![none-child](http://image18-c.poco.cn/mypoco/myphoto/20161227/18/184144497201612271821413924217185528_007.jpg?351x41_130)
+![none-child](http://p1.bpimg.com/572179/999cc809e3b0fd2b.png)
 
 {% highlight javascript %}
 <NodeList>
@@ -261,7 +261,7 @@ export default React.createClass({
 
 截图：
 
-![one-child](http://image18-c.poco.cn/mypoco/myphoto/20161227/18/184144497201612271821413924217185528_004.jpg?322x40_130)
+![one-child](http://p1.bpimg.com/572179/f20486e093cbd88e.png)
 
 {% highlight javascript %}
 <NodeList>
@@ -272,7 +272,7 @@ export default React.createClass({
 
 截图：
 
-![more-than-one-child](http://image18-c.poco.cn/mypoco/myphoto/20161227/18/184144497201612271821413924217185528_003.jpg?310x41_130)
+![more-than-one-child](http://p1.bpimg.com/572179/ffb0c7d218d92b91.png)
 
 `[React]`提供了一个工具方法`React.Children`来帮助处理`【this.props.children】`，使用`React.children.map`可以不需要理会组件下到底是有几个节点，从而避免意外的错误产生。
 
@@ -309,7 +309,7 @@ export default React.createClass({
 
 会得到一个警告，如下：
 
-![prop-types](http://image18-c.poco.cn/mypoco/myphoto/20161227/18/184144497201612271821413924217185528_002.jpg?796x40_130)
+![prop-types](http://p1.bpimg.com/572179/7c419c837862d0c4.png)
 
 另外，还有一个`getDefaultProps`钩子函数，用来设置组件的默认`【props】`，注意，这个钩子方法当多次被调用的时候，只会被执行一次。例如：
 
@@ -354,7 +354,7 @@ ReactDOM.render(
 // 控制台只会出现一次打印结果，如下
 {% endhighlight %}
 
-![execute-once](http://image18-c.poco.cn/mypoco/myphoto/20161227/18/184144497201612271821413924217185528_001.jpg?557x103_130)
+![execute-once](http://p1.bpimg.com/572179/34479a6787bb0939.png)
 
 ## refs(获取真实的DOM元素)
 
@@ -391,7 +391,7 @@ export default React.createClass({
 
 DOM节点打印如下：
 
-![refs](http://image18-c.poco.cn/mypoco/myphoto/20161227/18/184144497201612271821413924217185528_000.jpg?388x62_130)
+![refs](http://p1.bpimg.com/572179/8c8f61d67128332f.png)
 
 ## event
 
