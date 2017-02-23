@@ -2,7 +2,7 @@
 layout: post
 title:  "react新手教程"
 date:   2017-02-23
-excerpt: ""
+excerpt: "react新手教程，包括jsx语法,react基本用法讲解以及react生命周期等..."
 codes: true
 tag: [react, 框架学习]
 comments: true
