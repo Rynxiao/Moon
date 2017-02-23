@@ -10,6 +10,8 @@ comments: true
 
 ## 1. 导语
 
+github仓库 [https://github.com/Rynxiao/webpack-test](https://github.com/Rynxiao/webpack-test)
+
 ###  1.1 什么叫做webpack
 > webpack is a module bundler. 
 > webpack takes modules with dependencies and generates static assets representing those modules.
@@ -43,7 +45,7 @@ var webpack = require("webpack");
 建议安装淘宝的npm镜像，这样下载npm包会快上很多，具体做法：
 {% highlight javascript %}
 // 方式一
-npm install xx --registry=https://registry.npm.taobao.org/
+npm install xx --registry=https:\/\/registry.npm.taobao.org/
 
 // 方式二:安装淘宝提供的npm工具
 npm install -g cnpm
@@ -51,7 +53,7 @@ cnpm install xx
 
 // 方式三
 // 在用户主目录下，找到.npmrc文件，加上下面这段配置
-registry=https://registry.npm.taobao.org/
+registry=https:\/\/registry.npm.taobao.org/
 {% endhighlight %}
 
 ## 3. webpack的基本配置
